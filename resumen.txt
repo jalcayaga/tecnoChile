@@ -1,0 +1,25 @@
+Debes construir una página web para solventar las necesidades de la empresa, toma en cuenta lo siguiente: 
+● Debes contar con un carrito de compras, que le permita al usuario seleccionar una determinada cantidad de unidades de un producto puntual. 
+● Debes contar con la opción de limpiar el carrito de compra. 
+● Debes contar con la opción de modificar la cantidad de unidades pedidas. 
+● Debes validar que la cantidad de productos seleccionados no supere la cantidad de productos en stock. 
+● Debes indicar como agotados los productos que se encuentran sin stock, evitando que puedan ser seleccionados. 
+● Cuando el stock sea inferior a 4 productos, se debe indicar la cantidad de stock existen 
+● Cuando el stock corresponda a 1 producto, se debe indicar que es el último producto en el inventario. 
+● Una vez realizada la compra, se debe rebajar el stock del producto. 
+● La información de los productos debe ser leída desde un archivo Json, construido especialmente para la actividad. 
+● Alertar los productos sin stock 
+ 
+REQUERIMIENTOS 
+• Crear el sitio web en  base a HTML5, css y javascript vanilla. 
+• Agregar un listado de productos a la venta desde un archivo Json. 
+• Controlar el mensaje a mostrar según stock. 
+• Crear un carro de compra para dar la posibilidad de comprar. 
+• Permitir modificar la cantidad de productos en el carro de compras. 
+• Rebajar el stock de los productos comprados 
+• Enviar un correo al responsable, indicando cuando un producto se encuentra sin stock, después 
+de una venta. 
+• El sitio debe permitir generar más de una venta en línea, es decir, sin recargar la página.
+
+modificacion del resumen de chatgpt
+
