@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Ordenador de mesa",
     "description": "Ordenador de mesa potente y eficiente con procesador Intel Core i7, 16 GB de RAM y 1 TB de almacenamiento.",
-    "price": 799.99,
+    "price": 799,
     "image": "/Imagenes/id1.jpg",
     "stock": 10
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Portátil Gaming",
     "description": "Portátil gaming con procesador Intel Core i9, 32 GB de RAM, tarjeta gráfica Nvidia y 1 TB de almacenamiento SSD.",
-    "price": 1999.99,
+    "price": 1999,
     "image": "/Imagenes/id2jpg",
     "stock": 5
   },
