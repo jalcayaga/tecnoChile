@@ -1,193 +1,266 @@
 [
   {
     "id": 1,
-    "name": "Ordenador de mesa",
-    "description": "Ordenador de mesa potente y eficiente con procesador Intel Core i7, 16 GB de RAM y 1 TB de almacenamiento.",
-    "price": 799,
-    "image": "/Imagenes/id1.jpg",
-    "stock": 10
+    "nombre": "Ordenador de mesa",
+    "precio": 799990,
+    "link": "/img/id1.jpg",
+    "stock": 10,
+    "etiqueta": "pc escritorio, intel i7, ram16gb",
+    "descripcion": "Ordenador de mesa potente y eficiente con procesador Intel Core i7, 16 GB de RAM y 1 TB de almacenamiento.",
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
     "id": 2,
-    "name": "Portátil Gaming",
-    "description": "Portátil gaming con procesador Intel Core i9, 32 GB de RAM, tarjeta gráfica Nvidia y 1 TB de almacenamiento SSD.",
-    "price": 1999,
-    "image": "/Imagenes/id2jpg",
-    "stock": 5
+    "nombre": "Portátil Gaming",
+    "precio": 690000,
+    "link": "/img/id2.jpg",
+    "stock": 20,
+    "etiqueta": "gamer, geforce rtx 8600, laptop",
+    "descripcion": "Portátil gaming con procesador Intel Core i9, 32 GB de RAM, tarjeta gráfica Nvidia y 1 TB de almacenamiento SSD.",
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
     "id": 3,
-    "name": "Tablet",
-    "description": "Tablet de 10 pulgadas con pantalla táctil, sistema operativo Android y 64 GB de almacenamiento.",
-    "price": 299.99,
-    "image": "/Imagenes/id3.jpg",
-    "stock": 20
+    "nombre": "Tablet",
+    "precio": 299,
+    "link": "/img/id3.jpg",
+    "stock": 40,
+    "etiqueta": "tablet, android, 64gb",
+    "descripcion": "Tablet de 10 pulgadas con pantalla táctil, sistema operativo Android y 64 GB de almacenamiento.",
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
     "id": 4,
-    "name": "Impresora",
-    "description": "Impresora láser de alta calidad con conectividad Wi-Fi y funciones de escaneo y copiado.",
-    "price": 199.99,
-    "image": "/Imagenes/id4.jpg",
-    "stock": 15
+    "nombre": "Impresora",
+    "precio": 199,
+    "link": "/img/id4.jpg",
+    "stock": 37,
+    "etiqueta": "canon, impresora, scanner",
+    "descripcion": "Impresora láser de alta calidad con conectividad Wi-Fi y funciones de escaneo y copiado.",
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
     "id": 5,
-    "name": "Monitor Gaming",
-    "description": "Monitor gaming de 24 pulgadas con tasa de refresco de 144 Hz y tecnología AMD FreeSync.",
-    "price": 399.99,
-    "image": "/Imagenes/id5.jpg",
-    "stock": 8
+    "nombre": "Monitor Gaming",
+    "precio": 399,
+    "link": "/img/id5.jpg",
+    "stock": 8,
+    "etiqueta": "monitor, lg, 144hz",
+    "descripcion": "Monitor gaming de 24 pulgadas con tasa de refresco de 144 Hz y tecnología AMD FreeSync.",
+    "idCategoria":118,
+    "idSucursal":15  
   },
   {
     "id": 6,
-    "name": "Altavoces",
-    "description": "Altavoces de 2.1 canales con tecnología Bluetooth y control remoto.",
-    "price": 79.99,
-    "image": "/Imagenes/id6.jpg"
+    "nombre": "Altavoces",
+    "precio": 799,
+    "link": "/img/id6.jpg",
+    "stock": 26,
+    "etiqueta": "altavoces, 32gb, bluetooth",
+    "descripcion": "Altavoces de 2.1 canales con tecnología Bluetooth y control remoto.",
+    "idCategoria":118,
+    "idSucursal":15
   },
   {
     "id": 7,
-    "name": "Macbook Pro",
-    "description": "Laptop de alta gama de Apple",
-    "price": 1999.99,
-    "image": "/Imagenes/id7.jpg",
-    "stock": 10
+    "nombre": "Macbook Pro",
+    "precio": 1999,
+    "link": "/img/id7.jpg",
+    "stock": 10,
+    "etiqueta": "macbook pro, apple,",
+    "descripcion": "Laptop de alta gama de Apple",
+    "idCategoria":118,
+    "idSucursal":15  
   },
   {
     "id": 8,
-    "name": "Dell XPS",
-    "description": "Laptop de alta gama de Dell",
-    "price": 1499.99,
-    "image": "/Imagenes/id8.jpg",
-    "stock": 8
+    "nombre": "Dell XPS",
+    "precio": 1499,
+    "link": "/img/id8.jpg",
+    "stock": 39,
+    "etiqueta": "dell, xps, laptop,",
+    "descripcion": "Laptop de alta gama de Dell",
+    "idCategoria":118,
+    "idSucursal":15
   },
   {
     "id": 9,
-    "name": "Lenovo ThinkPad",
-    "description": "Laptop empresarial de Lenovo",
-    "price": 999.99,
-    "image": "/Imagenes/id9.jpg",
-    "stock": 5
+    "nombre": "Lenovo ThinkPad",
+    "precio": 9999,
+    "link": "/img/id9.jpg",
+    "stock": 42,
+    "etiqueta": "lenovo, thinkpad,laptop",
+    "descripcion": "Laptop empresarial de Lenovo",
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
     "id": 10,
-    "name": "Asus ROG",
-    "description": "Laptop para gamers de Asus",
-    "price": 1799.99,
-    "image": "/Imagenes/id10.jpg",
-    "stock": 7
+    "nombre": "Asus ROG",
+    "precio": 1799,
+    "link": "/img/id10.jpg",
+    "stock": 17,
+    "etiqueta": "asus, rog, gamer",
+    "descripcion": "Laptop para gamers de Asus",
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
     "id": 11,
-    "name": "HP Envy",
-    "description": "Laptop de alta gama de HP",
-    "price": 1499.99,
-    "image": "/Imagenes/id11.jpg",
-    "stock": 6
+    "nombre": "HP Envy",
+    "precio": 1499,
+    "link": "/img/id11.jpg",
+    "stock": 6,
+    "etiqueta": "hp, laptop, envy",
+    "descripcion": "Laptop de alta gama de HP",
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
     "id": 12,
-    "name": "Samsung Notebook",
-    "description": "Laptop de alta gama de Samsung",
-    "price": 999.99,
-    "image": "/Imagenes/id12.jpg",
-    "stock": 10
+    "nombre": "Samsung Notebook",
+    "precio": 9999,
+    "link": "/img/id12.jpg",
+    "stock": 18,
+    "etiqueta": "samsung, notebook, laptop",
+    "descripcion": "Laptop de alta gama de Samsung",
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
     "id": 13,
-    "name": "Teclado Gaming RGB",
-    "price": 89.99,
-    "image": "/Imagenes/id13.jpeg",
-    "description": "Teclado gaming con retroalimentación táctil y 16.8 millones de colores RGB para una experiencia de juego única y personalizada.",
-    "stock": 12
+    "nombre": "Teclado Gaming RGB",
+    "precio": 89,
+    "link": "/img/id13.jpeg",
+    "stock": 60,
+    "etiqueta": "teclado gaming, rgb",
+    "descripcion": "Teclado gaming con retroalimentación táctil y 16.8 millones de colores RGB para una experiencia de juego única y personalizada.",
+    "idCategoria":118,
+    "idSucursal":15
   },
   {
     "id": 14,
-    "name": "Mouse Gamer",
-    "price": 59.99,
-    "image": "/Imagenes/id14.jpg",
-    "description": "Mouse gamer con sensibilidad ajustable hasta 16000 DPI y botones programables para una mayor eficiencia en tus juegos.",
-    "stock": 20
+    "nombre": "Mouse Gamer",
+    "precio": 59,
+    "link": "/img/id14.jpg",
+    "stock": 62,
+    "etiqueta": "mouse, gamer",
+    "descripcion": "Mouse gamer con sensibilidad ajustable hasta 16000 DPI y botones programables para una mayor eficiencia en tus juegos.",
+    "idCategoria":118,
+    "idSucursal":15
   },
   {
     "id": 15,
-    "name": "Auriculares Gaming",
-    "price": 79.99,
-    "image": "/Imagenes/id15.jpg",
-    "description": "Auriculares gaming con sonido envolvente 7.1, micrófono cancelación de ruido y diseño ergonómico para una comodidad prolongada.",
-    "stock": 18
+    "nombre": "Auriculares Gaming",
+    "precio": 79,
+    "link": "/img/id15.jpg",
+    "stock": 66,
+    "etiqueta": "auriculares,",
+    "descripcion": "Auriculares gaming con sonido envolvente 7.1, micrófono cancelación de ruido y diseño ergonómico para una comodidad prolongada.",
+    "idCategoria":118,
+    "idSucursal":15
   },
   {
     "id": 16,
-    "name": "Placa Madre ASUS",
-    "price": 139.99,
-    "image": "/Imagenes/id16.jpg",
-    "description": "Placa madre ASUS con soporte para procesadores Intel y AMD, ranuras de expansión y tecnología de audio SupremeFX para un rendimiento superior.",
-    "stock": 10
+    "nombre": "Placa Madre ASUS",
+    "precio": 139,
+    "link": "/img/id16.jpg",
+    "stock": 99,
+    "etiqueta": "asus, placa madre",
+    "descripcion": "Placa madre ASUS con soporte para procesadores Intel y AMD, ranuras de expansión y tecnología de audio SupremeFX para un rendimiento superior.",
+    "idCategoria":118,
+    "idSucursal":15
   },
   {
     "id": 17,
-    "name": "Procesador Intel Core i9",
-    "price": 599.99,
-    "image": "/Imagenes/id17.jpg",
-    "description": "Procesador Intel Core i9 con velocidad de hasta 5.3 GHz y tecnología Hyper-Threading para un rendimiento máximo en tus tareas y juegos.",
-    "stock": 8
+    "nombre": "Procesador Intel Core i9",
+    "precio": 599,
+    "link": "/img/id17.jpg",
+    "stock": 88,
+    "etiqueta": "intel core i9",
+    "descripcion": "Procesador Intel Core i9 con velocidad de hasta 5.3 GHz y tecnología Hyper-Threading para un rendimiento máximo en tus tareas y juegos.",
+    "idCategoria":118,
+    "idSucursal":15
   },
   {
     "id": 18,
-    "name": "Tarjeta Gráfica NVIDIA RTX 3080",
-    "price": 999.99,
-    "image": "/Imagenes/id18.jpg",
-    "description": "Tarjeta gráfica NVIDIA RTX 3080 con tecnología de trazado de rayos en tiempo real y rendimiento 4K para una experiencia de juego inolvidable.",
-    "stock": 10
+    "nombre": "Tarjeta Gráfica NVIDIA RTX 3080",
+    "precio": 399,
+    "link": "/img/id18.jpg",
+    "stock": 100,
+    "etiqueta": "nvidia rtx 3080",
+    "descripcion": "Tarjeta gráfica NVIDIA RTX 3080 con tecnología de trazado de rayos en tiempo real y rendimiento 4K para una experiencia de juego inolvidable.",
+    "idCategoria":118,
+    "idSucursal":15
   },
   {
     "id": 19,
-    "name": "Tarjeta de video GTX 1060",
+    "nombre": "Tarjeta de video GTX 1060",
+    "precio": 450,
+    "link": "/img/id19.png",
+    "stock": 83,
+    "etiqueta": "gtx 1060",
     "descripcion": "Tarjeta de video dedicada para juegos y tareas exigentes, con una capacidad de 6GB GDDR5.",
-    "imagen": "/Imagenes/id19.png",
-    "precio": "$450",
-    "stock": 15
+    "idCategoria":118,
+    "idSucursal":15
   },
   {
     "id": 20,
-    "name": "Procesador Intel Core i9",
+    "nombre": "Procesador Intel Core i9",
+    "precio": 450,
+    "link": "/img/id20.jpg",
+    "stock": 54,
+    "etiqueta": "intel i9",
     "descripcion": "Procesador de alto rendimiento con 8 núcleos y 16 hilos, perfecto para tareas intensivas.",
-    "imagen": "/Imagenes/id20.jpg",
-    "precio": "$450",
-    "stock": 20
+    "idCategoria":118,
+    "idSucursal":15
   },
   {
     "id": 21,
-    "name": "Placa madre ASUS ROG",
+    "nombre": "Placa madre ASUS ROG",
+    "precio": 300,
+    "link": "/img/id21.png",
+    "stock": 36,
+    "etiqueta": "asus rog",
     "descripcion": "Placa madre de alto rendimiento con características para overclock y compatibilidad con tarjetas de video dedicadas.",
-    "imagen": "/Imagenes/id21.png",
-    "precio": "$300",
-    "stock": 17
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
     "id": 22,
-    "name": "Memoria RAM DDR4 16GB",
+    "nombre": "Memoria RAM DDR4 16GB",
+    "precio": 100,
+    "link": "/img/id22.jpg",
+    "stock": 150,
+    "etiqueta": "ram, ddr4, 16gb",
     "descripcion": "Memoria RAM de alta velocidad con una capacidad de 16GB para mejorar el rendimiento del sistema.",
-    "imagen": "/Imagenes/id22.jpg",
-    "precio": "$100",
-    "stock": 24
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
-    "id": 11,
-    "name": "SSD Kingston A400 480GB",
+    "id": 23,
+    "nombre": "SSD Kingston A400 480GB",
+    "precio": 100,
+    "link": "/img/id23.jpg",
+    "stock": 63,
+    "etiqueta": "ssd, kingston, a400",
     "descripcion": "Disco de estado sólido con una capacidad de 480GB para almacenamiento rápido y confiable.",
-    "imagen": "/Imagenes/id23.jpg",
-    "precio": "$100",
-    "stock": 18
+    "idCategoria": 118,
+    "idSucursal": 15
   },
   {
-    "id": 12,
-    "name": "Fuente de poder EVGA SuperNOVA 750W",
+    "id": 24,
+    "nombre": "Fuente de poder EVGA SuperNOVA 750W",
+    "precio": 180,
+    "link": "/img/id24.jpg",
+    "stock": 29,
+    "etiqueta": "supernova 750w",
     "descripcion": "Fuente de poder de alta calidad con una capacidad de 750W para alimentar sistemas de alto rendimiento.",
-    "imagen": "/Imagenes/id24.jpg",
-    "precio": "$180",
-    "stock": 20
+    "idCategoria": 118,
+    "idSucursal": 15
   }
 ]
